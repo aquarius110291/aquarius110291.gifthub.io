@@ -1,0 +1,33 @@
+/* CSS Document */
+*{
+	padding:0;
+	margin:0;
+}
+
+body{
+	width:1920px;
+	height:1080px;
+	background:url("../img/ANHBIA-100.jpg");
+	background-repeat: no-repeat;
+}
+#logo{
+	width:600px;
+	height:98px;
+	margin: 0 auto;
+	margin-top:450px;
+}
+#enter{
+	width:135px;
+	height:25px;
+	margin: 0 auto;
+	border: white 1px solid;
+	color: white;
+	text-align: center;
+	padding-top:10px;
+	margin-top:50px;
+	cursor: pointer;
+}
+a{
+	color:white;
+	text-decoration: none;
+}
