@@ -24,8 +24,9 @@
 	margin-right:100px;
 	float:right;
 	cursor: pointer;
-	font-size: 25pt;
+	font-size: 15pt;
 	text-align: center;
+	margin-top:10px;
 }
 #header .nav .muc{
 	width:180px;
@@ -45,17 +46,17 @@
 }
 #intro{
 	width:1920px;
-	height:350px;
+	height:320px;
 	background: white;
 	text-align: center;
 	padding-top:250px;
 }
 .title{
-	font-size: 100pt;
+	font-size: 90pt;
 	color:black;
 }
 .text{
-	font-size: 25pt;
+	font-size: 15pt;
 	color:black;
 }
 #aintro{
@@ -130,12 +131,17 @@
 	height: 500px;
 	float:left;
 	margin-left:50px;
-	
 }
 #o2{
 	width:1920px;
-	height:150px;
+	height:50px;
 	background: white;
+	padding-top:100px;
+}
+#o2 .line{
+	width: 1200px;
+	height:10px;
+	margin:0 auto;
 }
 #footer{
 	width:1050px;
