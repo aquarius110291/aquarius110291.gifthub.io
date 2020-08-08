@@ -24,9 +24,9 @@
 	margin-right:100px;
 	float:right;
 	cursor: pointer;
-	font-size: 15pt;
+	font-size: 20pt;
 	text-align: center;
-	margin-top:10px;
+	margin-top:5px;
 }
 #header .nav .muc{
 	width:180px;
@@ -56,7 +56,7 @@
 	color:black;
 }
 .text{
-	font-size: 15pt;
+	font-size: 20pt;
 	color:black;
 }
 #aintro{
